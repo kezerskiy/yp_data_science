@@ -2,7 +2,7 @@
 ## Мои учебные проекты
 <hr>
 
-### 1. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%201.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BD%D0%B0%D0%B4%D0%B5%D0%B6%D0%BD%D0%BE%D1%81%D1%82%D0%B8%20%D0%B7%D0%B0%D0%B5%D0%BC%D1%89%D0%B8%D0%BA%D0%BE%D0%B2.ipynb" target="blank" rel="noreferrer">Исследование надежности заёмщиков</a>
+### 1. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/P_01_Borrower%20reliability%20research/P_01_Borrower%20reliability%20research.ipynb" target="blank" rel="noreferrer">Исследование надежности заёмщиков</a>
 
 **Задача:**
 Заказчик — кредитный отдел банка. Нужно разобраться, влияет ли семейное положение и количество детей клиента на факт погашения кредита в срок. Входные данные от банка — статистика о платёжеспособности клиентов. Результаты исследования будут учтены при построении модели кредитного скоринга — специальной системы, которая оценивает способность потенциального заёмщика вернуть кредит банку.
@@ -11,8 +11,7 @@
 `pandas, matplotlib.pyplot, seaborn`
 <hr>
 
-### 2. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%202.%20%D0%98%D1%81%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D0%B1%D1%8A%D1%8F%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B9%20%D0%BE%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%D0%B5%20%D0%BA%D0%B2%D0%B0%D1%80%D1%82%D0%B8%D1%80%20%D0%B2%20%D0%A1%D0%9F%D0%B1.ipynb" target="blank">Исследование объявлений о продаже квартир</a>
-
+### 2. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/P_02_Research%20of%20advertisements%20for%20the%20sale/P_02_Research%20of%20advertisements%20for%20the%20sale.ipynb" target="blank">Исследование объявлений о продаже квартир</a>
 
 **Задача:**
 Определение рыночной стоимости объектов недвижимости (на базе данных ресурса Яндекс.Недвижимость). Задача — установить параметры, которые в той или иной степени оказывают влиение на финальную стоимость. Это позволит построить автоматизированную систему: она отследит аномалии и мошенническую деятельность.
@@ -21,7 +20,7 @@
 `pandas, matplotlib.pyplot, seaborn, numpy`
 <hr>
 
-### 3. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%203.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BF%D0%BE%D0%BF%D1%83%D0%BB%D1%8F%D1%80%D0%BD%D0%BE%D0%B3%D0%BE%20%D1%81%D0%B5%D1%80%D0%B2%D0%B8%D1%81%D0%B0%20%D0%B0%D1%80%D0%B5%D0%BD%D0%B4%D1%8B%20%D1%81%D0%B0%D0%BC%D0%BE%D0%BA%D0%B0%D1%82%D0%BE%D0%B2%20GoFast.ipynb?ref_type=heads" target="blank">Аналитика популярного сервиса аренды самокатов GoFast</a>
+### 3. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/P_03_Analytics%20of%20the%20scooter%20rental%20service/P_03_Analytics%20of%20the%20scooter%20rental%20service.ipynb" target="blank">Аналитика популярного сервиса аренды самокатов GoFast</a>
 
 **Задача:**
 Проанализировать данные и проверить некоторые гипотезы, которые могут помочь сервису аренды самокатов GoFast вырасти. Чтобы совершать поездки по городу, пользователи сервиса GoFast пользуются мобильным приложением.
@@ -30,7 +29,7 @@
 `pandas, matplotlib.pyplot, seaborn, math, numpy, scipy`
 <hr>
 
-### 4. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%204.%20%D0%90%D0%BD%D0%B0%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B4%D0%B0%D0%B6%20%D0%B8%D0%B3%D1%80.ipynb" target="blank">Аналитика продаж игр</a>
+### 4. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/P_04_Game%20Sales%20Analytics/P_04_Game%20Sales%20Analytics.ipynb" target="blank">Аналитика продаж игр</a>
 
 **Задача:**
 Вы работаете в интернет-магазине «Стримчик», который продаёт по всему миру компьютерные игры. Из открытых источников доступны исторические данные о продажах игр, оценки пользователей и экспертов, жанры и платформы (например, Xbox или PlayStation). Вам нужно выявить определяющие успешность игры закономерности. Это позволит сделать ставку на потенциально популярный продукт и спланировать рекламные кампании.Перед вами данные до 2016 года. Представим, что сейчас декабрь 2016 г., и вы планируете кампанию на 2017-й. Нужно отработать принцип работы с данными. Неважно, прогнозируете ли вы продажи на 2017 год по данным 2016-го или же 2027-й — по данным 2026 года.В наборе данных попадается аббревиатура ESRB (Entertainment Software Rating Board) — это ассоциация, определяющая возрастной рейтинг компьютерных игр. ESRB оценивает игровой контент и присваивает ему подходящую возрастную категорию, например, «Для взрослых», «Для детей младшего возраста» или «Для подростков».
@@ -39,7 +38,7 @@
 `pandas, matplotlib.pyplot, seaborn, numpy, scipy`
 <hr>
 
-### 5. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%205.%20%D0%A0%D0%B5%D0%BA%D0%BE%D0%BC%D0%B5%D0%BD%D0%B4%D0%B0%D1%86%D0%B8%D1%8F%20%D1%82%D0%B0%D1%80%D0%B8%D1%84%D0%BE%D0%B2.ipynb" target="blank">Рекомендация тарифов</a>
+### 5. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/P_05_Recommendation%20of%20tariffs/P_05_Recommendation%20of%20tariffs.ipynb" target="blank">Рекомендация тарифов</a>
 
 **Задача:**
 В вашем распоряжении данные о поведении клиентов, которые уже перешли на эти тарифы (из проекта курса «Статистический анализ данных»). Нужно построить модель для задачи классификации, которая выберет подходящий тариф. Предобработка данных не понадобится — вы её уже сделали.
@@ -49,7 +48,7 @@
 `pandas, matplotlib.pyplot, sklearn`
 <hr>
 
-### 6. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%206.%20%D0%9E%D1%82%D1%82%D0%BE%D0%BA%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.ipynb" target="blank">Отток клиентов</a>
+### 6. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/P_06_Customer%20outflow/P_06_Customer%20outflow.ipynb" target="blank">Отток клиентов</a>
 
 **Задача:**
 Из «Бета-Банка» стали уходить клиенты. Каждый месяц. Немного, но заметно. Банковские маркетологи посчитали: сохранять текущих клиентов дешевле, чем привлекать новых.
@@ -63,7 +62,7 @@
 `pandas, matplotlib.pyplot, numpy, sklearn`
 <hr>
 
-### 7. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%207.%20%D0%92%D1%8B%D0%B1%D0%BE%D1%80%20%D0%BB%D0%BE%D0%BA%D0%B0%D1%86%D0%B8%D0%B8%20%D0%B4%D0%BB%D1%8F%20%D1%81%D0%BA%D0%B2%D0%B0%D0%B6%D0%B8%D0%BD%D1%8B.ipynb" target="blank">Выбор локации для скважины</a>
+### 7. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/P_07_Choosing%20a%20location%20for%20a%20gas%20well/P_07_Choosing%20a%20location%20for%20a%20gas%20well.ipynb" target="blank">Выбор локации для скважины</a>
 
 **Задача:**
 Допустим, вы работаете в добывающей компании «ГлавРосГосНефть». Нужно решить, где бурить новую скважину.
@@ -73,7 +72,7 @@
 `pandas, matplotlib.pyplot, seaborn, numpy, scipy, sklearn`
 <hr>
 
-### 8. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%208.%20%D0%92%D0%BE%D1%81%D1%81%D1%82%D0%B0%D0%BD%D0%BE%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%BE%D0%BB%D0%BE%D1%82%D0%B0%20%D0%B8%D0%B7%20%D1%80%D1%83%D0%B4%D1%8B.ipynb" target="blank">Восстановление золота из руды</a>
+### 8. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/P_08_Recovery%20of%20gold%20from%20ore/P_08_Recovery%20of%20gold%20from%20ore.ipynb" target="blank">Восстановление золота из руды</a>
 
 **Задача:**
 Подготовьте прототип модели машинного обучения для «Цифры». Компания разрабатывает решения для эффективной работы промышленных предприятий.
@@ -84,7 +83,7 @@
 `pandas, matplotlib.pyplot, seaborn, numpy, sklearn`
 <hr>
 
-### 9. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%209%20%D0%97%D0%B0%D1%89%D0%B8%D1%82%D0%B0%20%D0%BF%D0%B5%D1%80%D1%81%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D1%85%20%D0%B4%D0%B0%D0%BD%D0%BD%D1%8B%D1%85%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.ipynb" target="blank">Защита персональных данных клиентов</a>
+### 9. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/P_09_Protection%20of%20personal%20data%20of%20clients/P_09_Protection%20of%20personal%20data%20of%20clients.ipynb" target="blank">Защита персональных данных клиентов</a>
 
 **Задача:**
 Вам нужно защитить данные клиентов страховой компании «Хоть потоп». Разработайте такой метод преобразования данных, чтобы по ним было сложно восстановить персональную информацию. Обоснуйте корректность его работы.
@@ -94,7 +93,7 @@
 `pandas, matplotlib.pyplot, numpy, sklearn`
 <hr>
 
-### 10. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2010.%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D1%81%D1%82%D0%BE%D0%B8%D0%BC%D0%BE%D1%81%D1%82%D0%B8%20%D0%B0%D0%B2%D1%82%D0%BE%D0%BC%D0%BE%D0%B1%D0%B8%D0%BB%D0%B5%D0%B9.ipynb" target="blank">Определение стоимости автомобилей</a>
+### 10. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/P_10_Determining%20the%20cost%20of%20cars/P_10_Determining%20the%20cost%20of%20cars.ipynb" target="blank">Определение стоимости автомобилей</a>
 
 **Задача:**
 Сервис по продаже автомобилей с пробегом «Не бит, не крашен» разрабатывает приложение для привлечения новых клиентов. В нём можно быстро узнать рыночную стоимость своего автомобиля. В вашем распоряжении исторические данные: технические характеристики, комплектации и цены автомобилей. Вам нужно построить модель для определения стоимости.
@@ -103,7 +102,7 @@
 `pandas, matplotlib.pyplot, seaborn, numpy, sklearn, phik, catboost, lightgbm`
 <hr>
 
-### 11. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2011.%20%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%B7%D0%B0%D0%BA%D0%B0%D0%B7%D0%BE%D0%B2%20%D1%82%D0%B0%D0%BA%D1%81%D0%B8.ipynb" target="blank">Прогнозирование заказов такси</a>
+### 11. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/P_11_Forecasting%20taxi%20orders/P_11_Forecasting%20taxi%20orders.ipynb" target="blank">Прогнозирование заказов такси</a>
 
 **Задача:**
 Компания «Чётенькое такси» собрала исторические данные о заказах такси в аэропортах. Чтобы привлекать больше водителей в период пиковой нагрузки, нужно спрогнозировать количество заказов такси на следующий час. Постройте модель для такого предсказания.
@@ -113,7 +112,7 @@
 `pandas, matplotlib.pyplot, seaborn, numpy, sklearn, catboost, lightgbm, statsmodels`
 <hr>
 
-### 12.1. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2012.1%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BB%D1%8F%20%C2%AB%D0%92%D0%B8%D0%BA%D0%B8%D1%88%D0%BE%D0%BF%C2%BB.ipynb" target="blank">Проект для «Викишоп»</a>
+### 12.1. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/P_12_A%20project%20for%20%C2%ABWikishop%C2%BB/P_12.1_A%20project%20for%20%C2%ABWikishop%C2%BB.ipynb" target="blank">Проект для «Викишоп»</a>
 
 **Задача:**
 Интернет-магазин «Викишоп» запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. То есть клиенты предлагают свои правки и комментируют изменения других. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.
@@ -124,7 +123,7 @@
 `pandas, matplotlib.pyplot, seaborn, numpy, nltk, re, spacy, catboost, tqdm, imblearn`
 <hr>
 
-### 12.2. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2012.2%20%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%20%D0%B4%D0%BB%D1%8F%20%C2%AB%D0%92%D0%B8%D0%BA%D0%B8%D1%88%D0%BE%D0%BF%C2%BB%20BERT.ipynb" target="blank">Проект для «Викишоп» BERT</a>
+### 12.2. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/P_12_A%20project%20for%20%C2%ABWikishop%C2%BB/P_12.2_A%20project%20for%20%C2%ABWikishop%C2%BB%20BERT.ipynb" target="blank">Проект для «Викишоп» BERT</a>
 
 **Задача:**
 Интернет-магазин «Викишоп» запускает новый сервис. Теперь пользователи могут редактировать и дополнять описания товаров, как в вики-сообществах. То есть клиенты предлагают свои правки и комментируют изменения других. Магазину нужен инструмент, который будет искать токсичные комментарии и отправлять их на модерацию.
@@ -135,7 +134,7 @@
 `pandas, matplotlib.pyplot, seaborn, numpy, re, torch, catboost, tqdm, transformers`
 <hr>
 
-### 13. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2013.%20%D0%9E%D0%BF%D1%80%D0%B5%D0%B4%D0%B5%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5%20%D0%B2%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82%D0%B0%20%D0%BF%D0%BE%D0%BA%D1%83%D0%BF%D0%B0%D1%82%D0%B5%D0%BB%D0%B5%D0%B9.ipynb" target="blank">Определение возраста покупателей</a>
+### 13. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/P_13_Determining%20the%20age%20of%20buyers/P_13_Determining%20the%20age%20of%20buyers.ipynb" target="blank">Определение возраста покупателей</a>
 
 **Задача:**
 Сетевой супермаркет «Хлеб-Соль» внедряет систему компьютерного зрения для обработки фотографий покупателей. Фотофиксация в прикассовой зоне поможет определять возраст клиентов, чтобы:
@@ -147,7 +146,7 @@
 `pandas, matplotlib.pyplot, seaborn, numpy, PIL, tensorflow.keras`
 <hr>
 
-### 14. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/%D0%9F%D1%80%D0%BE%D0%B5%D0%BA%D1%82%2014.%20%D0%9F%D1%80%D0%BE%D0%B3%D0%BD%D0%BE%D0%B7%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5%20%D0%BE%D1%82%D1%82%D0%BE%D0%BA%D0%B0%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2%20%D0%BE%D0%BF%D0%B5%D1%80%D0%B0%D1%82%D0%BE%D1%80%D0%B0%20%D1%81%D0%B2%D1%8F%D0%B7%D0%B8%20%C2%AB%D0%A2%D0%B5%D0%BB%D0%B5%D0%94%D0%BE%D0%BC%C2%BB.ipynb" target="blank">Прогнозирование оттока клиентов оператора связи «ТелеДом»</a>
+### 14. <a href="https://github.com/kezerskiy/yp_data_science/blob/main/P_14_Graduation%20project/P_14_Forecasting%20the%20outflow%20of%20%C2%ABTeleDom%C2%BB%20telecom%20operator%20customers.ipynb" target="blank">Прогнозирование оттока клиентов оператора связи «ТелеДом»</a>
 
 **Задача:**
 Оператор связи «ТелеДом» хочет бороться с оттоком клиентов. Для этого его сотрудники начнут предлагать промокоды и специальные условия всем, кто планирует отказаться от услуг связи. Чтобы заранее находить таких пользователей, «ТелеДому» нужна модель, которая будет предсказывать, разорвёт ли абонент договор. Команда оператора собрала персональные данные о некоторых клиентах, информацию об их тарифах и услугах. Ваша задача — обучить на этих данных модель для прогноза оттока клиентов.
